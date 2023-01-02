@@ -1,6 +1,6 @@
 # Binary to Decimal Converter 
 
-## [Live Link]()
+## [Live Link](https://binary-to-decimal-converter-gamma.vercel.app/)
 
 ## Tech Stack:
 
